@@ -6,4 +6,8 @@ This repository contains cracked versions of MathType software for educational a
 ### Disclaimer
 This repository is for educational and personal use only. Unauthorized distribution or commercial use of cracked software is illegal and violates the terms of service of the original software. Users are responsible for ensuring they comply with applicable laws in their jurisdiction.
 
+### Version 
+7.8.0
+
+### Instruction
 Download --> Install --> Replace --> Enjoy
